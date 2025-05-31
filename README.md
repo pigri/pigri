@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+David+Papp.+;%F0%9F%91%8B+Welcome+to+my+profile!;I+am+an+entrepreneur+and+programmer.+;with+over+20+years+of+experience+in+cybersecurity+and+DevOps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+David+Papp.+;%F0%9F%91%8B+Welcome+to+my+profile!;I+am+an+entrepreneur+and+programmer.+;with+over+20+years+;of+experience+in+;DevSecOps+and+DevOps.)](https://git.io/typing-svg)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
